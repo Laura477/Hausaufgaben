@@ -6,7 +6,6 @@ package algorithmen;
  * Berechnet einen Minimal Spanning Tree mit dem Prim Algorithmus und erzeugt
  * die Beispielausgabe
  * 
- * @author Laura Mey, Josha Bartsch, Christian Thelen
  *
  */
 public class PrimAlgorithmus {

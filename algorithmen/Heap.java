@@ -8,8 +8,6 @@ import java.util.Collections;
  * 
  * Implementation of a heap based on an integer arraylist
  * 
- * @author Josha Bartsch, Christian Thelen, Laura Mey
- *
  */
 public class Heap {
 	private ArrayList<Integer> data;

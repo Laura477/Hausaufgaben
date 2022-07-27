@@ -9,7 +9,6 @@ import java.util.ArrayList;
  * provided String can be described by a regular expression that is given as a
  * list of edges of a graph.
  *
- * @author Laura Mey, Christian Thelen, Josha Bartsch
  */
 public class NFA {
 	private ArrayList<String>[] adj;
